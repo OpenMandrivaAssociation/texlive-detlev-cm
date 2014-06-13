@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-detlev-cm
 Version:	20140216
-Release:	1
+Release:	2
 Summary:	TeXLive detlev-cm package
 Group:		Publishing
 URL:		http://tug.org/texlive
