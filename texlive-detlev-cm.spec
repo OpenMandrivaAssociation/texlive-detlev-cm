@@ -9,7 +9,7 @@ Version:	20140216
 Release:	7
 Summary:	TeXLive detlev-cm package
 Group:		Publishing
-URL:		http://tug.org/texlive
+URL:		https://tug.org/texlive
 License:	http://www.tug.org/texlive/LICENSE.TL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/detlev-cm.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/detlev-cm.doc.tar.xz
